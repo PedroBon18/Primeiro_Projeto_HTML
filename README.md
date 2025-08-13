@@ -7,7 +7,7 @@ Decidi colocar no GitHub como forma de backup e registro da minha evolução.
 
 Arquivo HTML simples
 
-Estrutura básica: <html>, <head>, <body> e Javascript
+Estrutura básica: html, head, body e Javascript
 
 🕒 Ano de Criação
 

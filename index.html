@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<!-- head: se encontra os metadados do site -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+<h1>UC - Front-End - Aula 1</h1>
+
+<div class="register_form" id="register_form">
+<p>FORMULARIO DE CADASTRO</p>
+
+<span>Email</span>
+<input type="email" placeholder="Digite seu email" name="email" id="email">
+<span>senha</span>
+<input type="password" placeholder="Digite sua senha" name="senha" id="senha">
+<button onclick="exibirAlertadeEmail()">ENTRAR</button>
+</div>
+
+
+
+<script>
+    function exibirAlertadeEmail() {
+        const emailInputValue = document.getElementById("email").value;
+        alert(emailInputValue);
+    }
+    exibirAlertadeEmail();
+
+</script>
+
+</body>
+
+</html>

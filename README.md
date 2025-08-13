@@ -11,7 +11,7 @@ Estrutura básica: html, head, body e Javascript
 
 🕒 Ano de Criação
 
-criado em [2025]
+criado em 2025
 
 💡 Observações
 
